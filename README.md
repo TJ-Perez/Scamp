@@ -1,5 +1,6 @@
 # Scamp
 This game is a short platformer I built to learn the Unity Engine
+
 *All Unity Engine work and programming done by TJ Perez*
 *Artwork done by Sergio Ruiz*
 
